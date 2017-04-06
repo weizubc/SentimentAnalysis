@@ -1,3 +1,4 @@
+#to crawl the data from https://www.wunderground.com/history/airport/KSFO/2017/1/2/DailyHistory.html
 import urllib2
 
 
